@@ -18,6 +18,13 @@ FPGA recreation of the Interact Home Computer from 1978.  You can read about it 
 ### Roadmap
 - SN76477 Sound
 - RS232C Peripheral Interface Emulation (MC6850)
+- 16K Expansion Mode (Microvideo)
+- Swappable Z80/8080 Mode
+- 48 KB Hector 2HR Mode (8x4164)
+- Hector 2HR Video Modes (112 x 78 with 8 colors, 243 x 231 with 4 colors)
+- Basic in ROM
+
+Development is following original chronological order from original Interact through Protecto/MicroVideo add-ons/mods, to Victor/Hector/Hector 2HR.
 
 ### Install
 - Copy *.rbf to the root of SD card.<br/>
